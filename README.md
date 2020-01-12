@@ -1,3 +1,5 @@
+This web application was developed using ReactJS and GitHub API. The aim of the app is to extract the main user information about any user being searched for in the search bar. ReactJS Context API has been used for state management.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
