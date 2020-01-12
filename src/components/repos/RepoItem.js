@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 //import Repos from './Repos';
 
-export const RepoItem = ({ repo }) => {
+const RepoItem = ({ repo }) => {
   return (
     <div className="card">
       <h3>
